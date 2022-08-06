@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\과제\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.exe.config
+C:\Users\User\Desktop\과제\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.exe
+C:\Users\User\Desktop\과제\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.pdb
+C:\Users\User\Desktop\과제\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\과제\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\과제\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\과제\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.exe
+C:\Users\User\Desktop\과제\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.pdb
+C:\Users\ich96\OneDrive\바탕 화면\RefacShoot-20220718T125647Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.exe.config
+C:\Users\ich96\OneDrive\바탕 화면\RefacShoot-20220718T125647Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.exe
+C:\Users\ich96\OneDrive\바탕 화면\RefacShoot-20220718T125647Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.pdb
+C:\Users\ich96\OneDrive\바탕 화면\RefacShoot-20220718T125647Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.AssemblyReference.cache
+C:\Users\ich96\OneDrive\바탕 화면\RefacShoot-20220718T125647Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ich96\OneDrive\바탕 화면\RefacShoot-20220718T125647Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\ich96\OneDrive\바탕 화면\RefacShoot-20220718T125647Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.exe
+C:\Users\ich96\OneDrive\바탕 화면\RefacShoot-20220718T125647Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.pdb
+C:\Users\User\Desktop\RefacShoot-20220718T234254Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.exe.config
+C:\Users\User\Desktop\RefacShoot-20220718T234254Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.exe
+C:\Users\User\Desktop\RefacShoot-20220718T234254Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.pdb
+C:\Users\User\Desktop\RefacShoot-20220718T234254Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RefacShoot-20220718T234254Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\RefacShoot-20220718T234254Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RefacShoot-20220718T234254Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.exe
+C:\Users\User\Desktop\RefacShoot-20220718T234254Z-001\RefacShoot\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.pdb
+C:\Users\ich96\Algorithm[C#]\C#_ConsoleGame\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.exe.config
+C:\Users\ich96\Algorithm[C#]\C#_ConsoleGame\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.exe
+C:\Users\ich96\Algorithm[C#]\C#_ConsoleGame\PromptShootingGame\PromptShootingGame\bin\Debug\PromptShootingGame.pdb
+C:\Users\ich96\Algorithm[C#]\C#_ConsoleGame\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.AssemblyReference.cache
+C:\Users\ich96\Algorithm[C#]\C#_ConsoleGame\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ich96\Algorithm[C#]\C#_ConsoleGame\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\ich96\Algorithm[C#]\C#_ConsoleGame\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.exe
+C:\Users\ich96\Algorithm[C#]\C#_ConsoleGame\PromptShootingGame\PromptShootingGame\obj\Debug\PromptShootingGame.pdb
